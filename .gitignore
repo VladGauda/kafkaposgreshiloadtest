@@ -6,9 +6,7 @@ build/
 !**/src/test/**/build/
 
 ### DATA ###
-grafana
-prometheus
-
+data
 
 ### STS ###
 .apt_generated
